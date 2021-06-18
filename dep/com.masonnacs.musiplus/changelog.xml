@@ -1,11 +1,11 @@
 <changelog>
 	<changes>
-		<version>1.0</version>
+		<version>1.0-2</version>
 		<change>Second release</change>
 		<change>Added color to search page images</change>
 	</changes>
 	<changes>
-		<version>1.0</version>
+		<version>1.0-1</version>
 		<change>Initial release</change>
 	</changes>
 </changelog>
