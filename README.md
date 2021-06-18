@@ -1,4 +1,4 @@
-Repo Page: https://masonnacs.github.io/masonsrepo.github.io/index.html
+Repo Page: https://masonnacs.github.io/Repo/index.html
 
 Update package files (Run in PowerShell): 
 bash update.sh 
