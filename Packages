@@ -5,10 +5,10 @@ Maintainer: MasonNacs <null>
 Installed-Size: 724
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
 Filename: debians/com.masonls.preferences_1.0_iphoneos-arm.deb
-Size: 315796
-MD5sum: ca9dd2ce264e48e8243e795d40bad655
-SHA1: 00398bc6018cf9577d6383822ba4aaae031f0924
-SHA256: 70b42c53e4db45a1c983aa572cae0cd8d0c7f7bac1a7b645b8c0320bc2c231cd
+Size: 315784
+MD5sum: 86bcdac0ac3a6825362b2f3089b2c8d8
+SHA1: 9a6f56ac0cfca8dc8ed4c72183344dd7d47ad02b
+SHA256: d32a0aa307bb556462b0aa50d816b081d79032b65c8a916c104fa257def8a792
 Section: Tweaks
 Description: Customize LS date and time text. Requires iOS 13 and above.
 Author: MasonNacs <null>
