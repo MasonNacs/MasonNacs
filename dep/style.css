@@ -1,0 +1,258 @@
+body {
+    margin: 1em;
+    background-color: #101010 !important;
+    color: white !important;
+}
+.card {
+    margin-bottom: 2em;
+    background-color: #2f2f2f !important;
+}
+.card-header {
+    background-color: #2f2f2f !important;
+}
+.card-body {
+    background-color: #101010 !important;
+}
+
+
+.btn{
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+.btn.focus{
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+.btn-primary{
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+.btn-primary.focus{
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+
+
+.btn:hover {   
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn:hover{ /* disable hover effect when input is touch */
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn:active{ /* disable hover effect when input is touch */
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+
+
+.btn:focus {   
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn:focus{ /* disable hover effect when input is touch */
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn:focus{ /* disable hover effect when input is touch */
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+
+
+.btn.focus:hover {   
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn.focus:hover{ /* disable hover effect when input is touch */
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn.focus:active{ /* disable hover effect when input is touch */
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+
+
+.btn.focus:focus {   
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn.focus:focus{ /* disable hover effect when input is touch */
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn.focus:focus{ /* disable hover effect when input is touch */
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+
+
+.btn-primary:hover {   
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn-primary:hover{ /* disable hover effect when input is touch */
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn-primary:active{ /* disable hover effect when input is touch */
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+
+
+.btn-primary:focus {   
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn-primary:focus{ /* disable hover effect when input is touch */
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn-primary:focus{ /* disable hover effect when input is touch */
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+
+
+.btn-primary.focus:hover {   
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn-primary.focus:hover{ /* disable hover effect when input is touch */
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn-primary.focus:active{ /* disable hover effect when input is touch */
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+
+
+.btn-primary.focus:focus {   
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn-primary.focus:focus{ /* disable hover effect when input is touch */
+    background-color: #e33535 !important;
+    border-color: #e01f1f !important;
+    box-shadow: 0 0 0 0.1rem rgba(227,53,53,.4) !important;
+}
+html.can-touch .btn-primary.focus:focus{ /* disable hover effect when input is touch */
+    background-color: #e74f4f !important;
+    border-color: #e33535 !important;
+    box-shadow: 0 0 0 0.1rem rgba(231,79,79,.4) !important;
+}
+
+
+.text-primary {
+    color: #e74f4f !important;
+}
+.thumbnail {
+    margin-bottom: 2em;;
+}
+.list-group {
+    margin-bottom: 2em;
+}
+.list-group-item {
+    background-color: #101010 !important;
+    border-color:  #2f2f2f !important;
+}
+.jumbotron {
+    background-color: #e74f4f !important;
+}
+.disable-hover {
+    pointer-events: none;
+}
+.link-item {
+    list-style-type: none;
+    padding: 17px 15px;
+    display: block;
+    color: #e74f4f !important;
+    text-align: left;
+}
+.link-item:hover {
+    border: 1px solid #2f2f2f !important;
+    background-color: #e74f4f !important;
+    color: #fff !important;
+}
+
+html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
+    background-color: #e74f4f !important;
+    color: #fff !important;
+}
+
+html.can-touch .link-item:active{ /* disable hover effect when input is touch */
+    background-color: #fff !important;
+    color: #e74f4f !important;
+}
+
+.fa {
+    font-size: 16px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+<style>
+    .myclass{
+        background-color: #e74f4f !important;
+    }
+</style>
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #101010 !important;
+        color: white !important;
+    }
+    .card-header {
+        background-color: #2f2f2f !important;
+    }
+    .card-body {
+        background-color: #101010 !important;
+    }
+    .jumbotron {
+        background-color: #2f2f2f !important;
+    }
+
+    .list-group-item {
+        background-color: #101010 !important;
+        border-color:  #2f2f2f !important;
+    }
+
+    html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
+        background-color: #101010 !important;
+    }
+    
+    html.can-touch .link-item:active{ /* disable hover effect when input is touch */
+        background-color: #101010 !important;
+    }
+
+}

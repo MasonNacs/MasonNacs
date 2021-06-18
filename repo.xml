@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>My Twitter</name>
+			<url>https://twitter.com/norcos</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>My GitHub</name>
+			<url>https://github.com/MasonNacs</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</footerlinks>
+</repo>

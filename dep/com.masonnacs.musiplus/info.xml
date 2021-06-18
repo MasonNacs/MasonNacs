@@ -1,0 +1,45 @@
+<package>
+	<id>com.masonnacs.musiplus</id>
+	<name>MusiPlus</name>
+	<version>1.0-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.spark.libsparkcolourpicker</package>
+	</dependencies>
+	<shortDescription>v1.0 / iOS 13-14</shortDescription>
+	<descriptionlist>
+		<description>Colors Musi and disables all ads, you can also customize the colors in preferences. Requires iOS 13 and above.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>image0.png</image>
+		</screenshot>	
+		<screenshot>
+			<description></description>
+			<image>image1.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>Added color to search page images</change>
+	</changelog>
+	<links>
+		<link>
+			<name>MusiPlus Open Source</name>
+			<url>https://github.com/MasonNacs/MusiPlus-Opensource</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
