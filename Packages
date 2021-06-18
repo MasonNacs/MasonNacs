@@ -5,14 +5,14 @@ Maintainer: MasonNacs <null>
 Installed-Size: 724
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
 Filename: debians/com.masonls.preferences_1.0_iphoneos-arm.deb
-Size: 315804
-MD5sum: 944cc4bbfb8b2660a7de50b51a02e6c4
-SHA1: acdcd48bd75501ac44eab6f3cb35304cd52fbf3e
-SHA256: ebbbe1467b00d7323b39c382fa6fd02934c6bc9be8d034058f546a9f93eb8166
+Size: 315796
+MD5sum: ca9dd2ce264e48e8243e795d40bad655
+SHA1: 00398bc6018cf9577d6383822ba4aaae031f0924
+SHA256: 70b42c53e4db45a1c983aa572cae0cd8d0c7f7bac1a7b645b8c0320bc2c231cd
 Section: Tweaks
 Description: Customize LS date and time text. Requires iOS 13 and above.
 Author: MasonNacs <null>
-Depiction: https://masonnacs.github.io/Repo/dep/?p=com.masonls.preferences
+Depiction: https://masonnacs.github.io/repo/dep/?p=com.masonls.preferences
 Name: MasonLS
 
 Package: com.masonnacs.musiplus
@@ -22,13 +22,13 @@ Maintainer: MasonNacs <(null)>
 Installed-Size: 612
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
 Filename: debians/com.masonnacs.musiplus_1.0_iphoneos-arm.deb
-Size: 37784
-MD5sum: e73c0561e7564e482f8fcdbe55d2dfb6
-SHA1: f1c2e71a925cd1000eca2a7a3024caaab9296094
-SHA256: b7526e20fe09e537be44cdc877b4de3d972c4faf629996c568477c8a5d95a0d4
+Size: 37740
+MD5sum: fb9a747b178c6b1f8373c85fa4891f41
+SHA1: d25423c1e345de8ef1c3468a91f9e836639f27c1
+SHA256: 8b0699f2ad04d133230d44247deeb3be038435d7aad80f86aa819af85e92536d
 Section: Tweaks
 Description: Colors Musi and disables all ads, you can also customize the colors in preferences. Requires iOS 13 and above.
 Author: MasonNacs <null>
-Depiction: https://masonnacs.github.io/Repo/dep/?p=com.masonnacs.musiplus
+Depiction: https://masonnacs.github.io/repo/dep/?p=com.masonnacs.musiplus
 Name: MusiPlus
 
