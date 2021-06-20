@@ -16,18 +16,18 @@ Depiction: https://masonnacs.github.io/repo/dep/?p=com.masonls.preferences
 Name: MasonLS
 
 Package: com.masonnacs.musiplus
-Version: 1.5
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: MasonNacs <null>
+Maintainer: MasonNacs <(null)>
 Installed-Size: 612
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: debians/com.masonnacs.musiplus_1.5_iphoneos-arm.deb
-Size: 33280
-MD5sum: 836dd11a135a2c19731f77ced3e16e04
-SHA1: 23ab1e4ff876f279d8a0acdc2cc6d2d44d8d9163
-SHA256: 9dddf3651e84054b408079790484e4f627b9c24b68f5ae247b115a74b5098658
+Filename: debians/com.masonnacs.musiplus_1.0_iphoneos-arm.deb
+Size: 37740
+MD5sum: fb9a747b178c6b1f8373c85fa4891f41
+SHA1: d25423c1e345de8ef1c3468a91f9e836639f27c1
+SHA256: 8b0699f2ad04d133230d44247deeb3be038435d7aad80f86aa819af85e92536d
 Section: Tweaks
-Description: Allows you to color Musi, you can customize the colors in preferences. Requires iOS 13 and above.
+Description: Colors Musi and disables all ads, you can also customize the colors in preferences. Requires iOS 13 and above.
 Author: MasonNacs <null>
 Depiction: https://masonnacs.github.io/repo/dep/?p=com.masonnacs.musiplus
 Name: MusiPlus
